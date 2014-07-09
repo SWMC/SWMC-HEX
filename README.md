@@ -1,5 +1,7 @@
-WLOX - Open Source Cryptocurrency Exchange  
-=========
+SWMC-HEX - Open Source Hashing Exchange (based on wlox an Open Source Cryptocurrency Exchange)  
+=======
+(**THESE FILES ARE STILL IN THERE ORIGINAL FORMAT - CHANGES TO THE CODE HAVE NOT YET BEGUN**
+
 WLOX is an open source alternative currency exchange, created to facilitate the exchange of cryptocurrencies for multiple fiat currencies. At this point, the only cryptocurrency supported is **Bitcoin**. It is not difficult, however, to adapt this project for the use of other cryptocurrencies.
 
 WLOX is configured to use Crypto Capital Corporation as a banking services provider. For more information about them, please visit http://www.cryptocapital.co.
